@@ -2,10 +2,10 @@
 //#include <tchar.h>
 #include <stdio.h>
 #include <Lmcons.h>
-#include "../unfuck.h"
+#include "../unduck.h"
 
 int main(void) {
-    unfuck();
+    unduck();
     char name_buf[UNLEN+1];
     DWORD buflen = UNLEN+1;
 
