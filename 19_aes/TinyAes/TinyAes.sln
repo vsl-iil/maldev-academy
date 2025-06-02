@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TinyAes", "TinyAes\TinyAes.vcxproj", "{C6631AA5-CF82-46D3-9FFC-665941AC794C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6631AA5-CF82-46D3-9FFC-665941AC794C}.Debug|x64.ActiveCfg = Debug|x64
+		{C6631AA5-CF82-46D3-9FFC-665941AC794C}.Debug|x64.Build.0 = Debug|x64
+		{C6631AA5-CF82-46D3-9FFC-665941AC794C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C6631AA5-CF82-46D3-9FFC-665941AC794C}.Debug|x86.Build.0 = Debug|Win32
+		{C6631AA5-CF82-46D3-9FFC-665941AC794C}.Release|x64.ActiveCfg = Release|x64
+		{C6631AA5-CF82-46D3-9FFC-665941AC794C}.Release|x64.Build.0 = Release|x64
+		{C6631AA5-CF82-46D3-9FFC-665941AC794C}.Release|x86.ActiveCfg = Release|Win32
+		{C6631AA5-CF82-46D3-9FFC-665941AC794C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABF0B182-11D4-4192-898A-54944B41D976}
+	EndGlobalSection
+EndGlobal
