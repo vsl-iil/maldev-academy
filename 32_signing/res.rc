@@ -1,0 +1,3 @@
+#include "rsrc.h"
+
+IDR_PAYLOAD RCDATA "payload.ico"
